@@ -1,5 +1,7 @@
 # PM2.5 and Relative Humidity Forecasting
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/JNDEV03/Pm2.5-Chiang-Mai-Predic/main/Screenshot%202024-07-22%20001446.png"/> </a> 
+</p>
 ## Overview
 
 This project aims to forecast PM2.5 levels and relative humidity (RH) using historical data from a specified station. The data is processed and used to train a Long Short-Term Memory (LSTM) neural network to predict future values.
